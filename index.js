@@ -1,3 +1,3 @@
 const logDriverNames = function(drivers) {
-  drivers.foreach
+  drivers.forEach
 }
