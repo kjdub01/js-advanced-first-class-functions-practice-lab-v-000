@@ -10,8 +10,8 @@ const logDriversByHometown = function (drivers, location) {
       console.log(driver.name);
     }
   });
-}
+};
 
 const driversByRevenue = function (drivers, amount) {
   
-}
+};
